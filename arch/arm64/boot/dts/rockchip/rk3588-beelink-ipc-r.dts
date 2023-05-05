@@ -752,6 +752,9 @@
 &combphy0_ps {
 	status = "okay";
 };
+&sata0 {
+    status = "okay";
+};
 
 &pcie2x1l2 {
 	status = "disabled";
